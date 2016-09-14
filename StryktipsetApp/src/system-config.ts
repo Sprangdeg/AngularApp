@@ -38,6 +38,7 @@ const barrels: string[] = [
   'app/shared',
   'app/top-menu',
   'app/welcome-page',
+  'app/stryktipset',
   /** @cli-barrel */
 ];
 

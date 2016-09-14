@@ -10,5 +10,5 @@ import { TopMenuComponent } from './top-menu/'
   directives: [WelcomePageComponent, TopMenuComponent]
 })
 export class AppComponent {
-  title = 'StryktipsetApp';
+  title="Welcome!";
 }
